@@ -54,6 +54,8 @@ Tools and frameworks that facilitate the setup, deployment, and management of th
   
 - **[Multi Juicer](https://github.com/juice-shop/multi-juicer)**: Manages multiple instances of Juice Shop, an intentionally vulnerable web application, to facilitate security training and CTF challenges.
 
+- **[Authentik](https://github.com/goauthentik/authentik)**: An open-source Identity Provider that emphasizes flexibility and versatility, with support for a wide set of protocols.
+
 ## White Zone Tooling
 
 Tools and frameworks for managing the white zone aspects of cyber ranges, including monitoring and competition management.
